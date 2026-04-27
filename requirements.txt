@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+tensorflow
+openai
+opencv-python-headless
+matplotlib
+pillow
+streamlit-autorefresh
+streamlit-extras
+ultralytics
+plotly
+joblib
+scikit-learn
